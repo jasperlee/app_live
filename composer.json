@@ -1,0 +1,14 @@
+{
+    "name": "jasper/lcs",
+    "authors": [
+        {
+            "name": "jasperlee",
+            "email": "281250541@qq.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "5.3.*",
+        "aliyuncs/oss-sdk-php": "^2.0",
+        "php-curl-class/php-curl-class": "^4.11"
+    }
+}
