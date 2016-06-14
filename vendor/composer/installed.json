@@ -1183,7 +1183,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/webmozart/assert/30eed06dd6bc88410a4ff7f77b6d22f3ce13dbde.zip",
+            "url": "https://api.github.com/repos/webmozart/assert/zipball/30eed06dd6bc88410a4ff7f77b6d22f3ce13dbde",
             "reference": "30eed06dd6bc88410a4ff7f77b6d22f3ce13dbde",
             "shasum": ""
         },
@@ -1234,7 +1234,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/phpDocumentor/ReflectionCommon/144c307535e82c8fdcaacbcfc1d6d8eeb896687c.zip",
+            "url": "https://api.github.com/repos/phpDocumentor/ReflectionCommon/zipball/144c307535e82c8fdcaacbcfc1d6d8eeb896687c",
             "reference": "144c307535e82c8fdcaacbcfc1d6d8eeb896687c",
             "shasum": ""
         },
@@ -1290,7 +1290,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/phpDocumentor/TypeResolver/b39c7a5b194f9ed7bd0dd345c751007a41862443.zip",
+            "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/b39c7a5b194f9ed7bd0dd345c751007a41862443",
             "reference": "b39c7a5b194f9ed7bd0dd345c751007a41862443",
             "shasum": ""
         },
@@ -1339,7 +1339,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/phpDocumentor/ReflectionDocBlock/9270140b940ff02e58ec577c237274e92cd40cdd.zip",
+            "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/9270140b940ff02e58ec577c237274e92cd40cdd",
             "reference": "9270140b940ff02e58ec577c237274e92cd40cdd",
             "shasum": ""
         },
@@ -1386,7 +1386,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/phpspec/prophecy/58a8137754bc24b25740d4281399a4a3596058e0.zip",
+            "url": "https://api.github.com/repos/phpspec/prophecy/zipball/58a8137754bc24b25740d4281399a4a3596058e0",
             "reference": "58a8137754bc24b25740d4281399a4a3596058e0",
             "shasum": ""
         },
@@ -1437,6 +1437,51 @@
             "mock",
             "spy",
             "stub"
+        ]
+    },
+    {
+        "name": "marcj/php-rest-service",
+        "version": "0.1.7",
+        "version_normalized": "0.1.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/marcj/php-rest-service.git",
+            "reference": "38848264ee5c6dbb61291ead257ddd03b4b9cdb1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/marcj/php-rest-service/zipball/38848264ee5c6dbb61291ead257ddd03b4b9cdb1",
+            "reference": "38848264ee5c6dbb61291ead257ddd03b4b9cdb1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-12-06 02:32:09",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "RestService": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Marc J. Schmidt",
+                "email": "marc@kryn.org",
+                "homepage": "http://marcjschmidt.de"
+            }
+        ],
+        "description": "PHPRestService is a simple and fast PHP class for server side RESTful APIs.",
+        "keywords": [
+            "api",
+            "php",
+            "rest",
+            "restful"
         ]
     }
 ]

@@ -9,6 +9,7 @@
     "require": {
         "phpunit/phpunit": "5.3.*",
         "aliyuncs/oss-sdk-php": "^2.0",
-        "php-curl-class/php-curl-class": "^4.11"
+        "php-curl-class/php-curl-class": "^4.11",
+        "marcj/php-rest-service": "^0.1.7"
     }
 }

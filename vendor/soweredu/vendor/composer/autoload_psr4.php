@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'soweredu\\live\\' => array($baseDir . '/live'),
+    'Curl\\' => array($vendorDir . '/php-curl-class/php-curl-class/src/Curl'),
 );

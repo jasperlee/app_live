@@ -3,5 +3,8 @@
         "psr-4": {
             "soweredu\\live\\": "live/"
         }
+    },
+    "require": {
+        "php-curl-class/php-curl-class": "^4.11"
     }
 }
